@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Micah
-- 👀 I’m interested in web development, artificial intelligence, and electrical engineering
-- 🌱 I’m currently learning svelte and blockchain development
+- 👀 I’m interested in web development, artificial intelligence, and sustainable engineering
+- 🌱 I’m currently learning server setup and maintenance
 
 <!---
 Mkinney99/Mkinney99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
